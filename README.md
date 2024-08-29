@@ -1,7 +1,7 @@
 # Weather Data Pipeline
 
 ## Project Description
-This project implements a data pipeline that retrieves, stores, and analyzes weather information from a specific station using the National Weather Service public API. The data is stored in a MySQL database, and SQL queries can be executed to obtain key metrics.
+This project implements a data pipeline that retrieves, stores, and analyzes weather information from a specific station (`0112W`) using the National Weather Service public API. The data is stored in a MySQL database.
 
 ## Project Structure
 - `src/pipeline.py`: Main script that executes the data pipeline.
