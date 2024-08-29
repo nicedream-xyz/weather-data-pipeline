@@ -8,8 +8,8 @@ API_BASE_URL = "https://api.weather.gov"
 STATION_ID = "0112W"  
 DB_CONFIG = {
     'user': 'root',
-    'password': 'Yeezy1298.',
-    'host': 'localhost',
+    'password': 'Yeezy1298.', # Depends on the user/database.
+    'host': 'localhost', # Depends on the database used.
     'database': 'weather_db'
 }
 
