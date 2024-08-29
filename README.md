@@ -5,7 +5,7 @@ This project implements a data pipeline that retrieves, stores, and analyzes wea
 
 ## Project Structure
 - `src/pipeline.py`: Main script that executes the data pipeline.
-- `db/create_table.sql`: Script to create the `weather_observations` table in MySQL.
+- `db/create_db-table.sql`: Script to create the `weather_observations` table in MySQL.
 - `db/query_data.sql` : Script to query the required data.
 - `requirements.txt`: File containing the necessary Python dependencies.
 
