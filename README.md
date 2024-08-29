@@ -17,7 +17,6 @@ This project implements a data pipeline that retrieves, stores, and analyzes wea
 ## Installation
 
 ### Clone the Repository
-Clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/nicedream-xyz/weather-data-pipeline.git
